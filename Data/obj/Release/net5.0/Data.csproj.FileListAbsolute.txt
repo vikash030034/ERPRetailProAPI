@@ -1,0 +1,15 @@
+F:\invent-backend_backuptillTask1\invent-backend_backuptillTask1\Data\bin\Release\net5.0\Data.deps.json
+F:\invent-backend_backuptillTask1\invent-backend_backuptillTask1\Data\bin\Release\net5.0\Data.runtimeconfig.json
+F:\invent-backend_backuptillTask1\invent-backend_backuptillTask1\Data\bin\Release\net5.0\Data.runtimeconfig.dev.json
+F:\invent-backend_backuptillTask1\invent-backend_backuptillTask1\Data\bin\Release\net5.0\Data.dll
+F:\invent-backend_backuptillTask1\invent-backend_backuptillTask1\Data\bin\Release\net5.0\Data.pdb
+F:\invent-backend_backuptillTask1\invent-backend_backuptillTask1\Data\obj\Release\net5.0\Data.csproj.AssemblyReference.cache
+F:\invent-backend_backuptillTask1\invent-backend_backuptillTask1\Data\obj\Release\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\invent-backend_backuptillTask1\invent-backend_backuptillTask1\Data\obj\Release\net5.0\Data.AssemblyInfoInputs.cache
+F:\invent-backend_backuptillTask1\invent-backend_backuptillTask1\Data\obj\Release\net5.0\Data.AssemblyInfo.cs
+F:\invent-backend_backuptillTask1\invent-backend_backuptillTask1\Data\obj\Release\net5.0\Data.csproj.CoreCompileInputs.cache
+F:\invent-backend_backuptillTask1\invent-backend_backuptillTask1\Data\obj\Release\net5.0\Data.dll
+F:\invent-backend_backuptillTask1\invent-backend_backuptillTask1\Data\obj\Release\net5.0\refint\Data.dll
+F:\invent-backend_backuptillTask1\invent-backend_backuptillTask1\Data\obj\Release\net5.0\Data.pdb
+F:\invent-backend_backuptillTask1\invent-backend_backuptillTask1\Data\obj\Release\net5.0\Data.genruntimeconfig.cache
+F:\invent-backend_backuptillTask1\invent-backend_backuptillTask1\Data\obj\Release\net5.0\ref\Data.dll
